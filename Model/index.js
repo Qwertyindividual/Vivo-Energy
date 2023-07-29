@@ -334,6 +334,5 @@ class User {
 
 module.exports = {
   User
-  // Product,
-  // Cart
+
 };
